@@ -1,8 +1,8 @@
 {
-  "homepage": "http://PvKutam.github.io/Imdb-clone-react",
+  "homepage": "https://pvkutam.github.io/Imdb-clone-react/",
   "name": "zomato",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
